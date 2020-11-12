@@ -1,33 +1,37 @@
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/3Cbanner.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/12/banner1Doctis.png
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/05/ajaxmail-1.gif
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2016/12/cpv1.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/04/U.png
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/07/CHECKPOINT-banner-728-x-90.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/05/thumbnail_banner1.png
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2019/09/leaderboard-oasirejuve.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/C.G.R.D.banner.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/12/banner1Doctis.png
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/ajaxmail.gif
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2016/12/ieg1-1.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/04/U.png
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/04/VW728-1.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/07/CHECKPOINT-banner-728-x-90.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2019/09/leaderboard-oasirejuve.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/C.G.R.D.banner.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/12/banner1Doctis.png
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/ajaxmail.gif
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/BRISTOLbanner.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/SVT-LINEA-100.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/03/UNICHIMICA-banner-1200x200.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/03/VICENZA-WELFARE-banner-1200x200.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/05/ajaxmail.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/11/1200x200-banner-tviw.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/06/AIM-istit_1200x200_1-1.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/05/1200X200.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/ajaxmail.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2016/12/cpv-2.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/07/CHECKPOINT-banner-1200-x-200.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/05/1200X200.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/ajaxmail.jpg
-www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2019/09/billboard-oasirejuve.jpg
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/3Cbanner.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/12/banner1Doctis.png
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/05/ajaxmail-1.gif
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2016/12/cpv1.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/04/U.png
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/07/CHECKPOINT-banner-728-x-90.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/05/thumbnail_banner1.png
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2019/09/leaderboard-oasirejuve.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/C.G.R.D.banner.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/12/banner1Doctis.png
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/ajaxmail.gif
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2016/12/ieg1-1.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/04/U.png
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/04/VW728-1.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/07/CHECKPOINT-banner-728-x-90.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2019/09/leaderboard-oasirejuve.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/C.G.R.D.banner.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/12/banner1Doctis.png
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/ajaxmail.gif
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/BRISTOLbanner.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/SVT-LINEA-100.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/03/UNICHIMICA-banner-1200x200.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/03/VICENZA-WELFARE-banner-1200x200.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/05/ajaxmail.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/11/1200x200-banner-tviw.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/06/AIM-istit_1200x200_1-1.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/05/1200X200.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/ajaxmail.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2016/12/cpv-2.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/07/CHECKPOINT-banner-1200-x-200.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2020/05/1200X200.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/07/ajaxmail.jpg
+0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2019/09/billboard-oasirejuve.jpg
