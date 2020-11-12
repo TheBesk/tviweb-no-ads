@@ -1,7 +1,3 @@
-127.0.0.1 localhost
-
-::1 localhost #[IPv6]
-
 0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2018/12/3Cbanner.jpg
 0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/12/banner1Doctis.png
 0.0.0.0 http://www.tviweb.it/notizie-vicenza/tv-vicenza/uploads/2017/05/ajaxmail-1.gif
